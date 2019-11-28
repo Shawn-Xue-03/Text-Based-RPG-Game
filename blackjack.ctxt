@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=blackjack
+comment0.text=\r\n\ This\ is\ the\ BlackJack\ minigame\r\n\r\n\ @Shawn\ Xue\r\n\ @04/10/29\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ blackjack()
+numComments=3

@@ -1,0 +1,15 @@
+Username: anything you want it to be.
+Password: Password
+
+True or false gamemode: True
+
+Riddle gamemode: Tree
+
+Fill in the Blank Gamemode: Ali
+
+Multiple Choice Gamemode: c 
+
+Binary Gamemode: 1111100111
+
+Dice math game: -15094
+

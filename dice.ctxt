@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=dice
+comment0.text=\r\n\ This\ is\ the\ battle\ against\ King\ Dice.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ game()
+comment2.params=
+comment2.target=int\ diceroll()
+comment3.params=
+comment3.target=int\ snakes()
+comment4.params=
+comment4.target=int\ player()
+comment5.params=
+comment5.target=void\ trident()
+comment6.params=
+comment6.target=void\ math()
+numComments=7
